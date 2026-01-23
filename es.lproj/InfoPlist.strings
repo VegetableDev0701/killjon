@@ -1,0 +1,6 @@
+"NSCameraUsageDescription" = "Esta aplicación requiere acceso a tu cámara para permitirte tomar fotos para tus anuncios.";
+"NSLocationWhenInUseUsageDescription" = "Esta aplicación requiere acceso a tu ubicación para permitirte usar el mapa.";
+"NSMicrophoneUsageDescription" = "Esta aplicación necesita acceso al micrófono para habilitar la búsqueda por voz y funciones de reconocimiento de voz";
+"NSPhotoLibraryUsageDescription" = "Esta aplicación requiere acceso a tu biblioteca de fotos para permitirte subir o elegir imágenes.";
+"NSPhotoLibraryAddUsageDescription" = "Esta aplicación necesita permiso para guardar códigos QR e imágenes en tu biblioteca de fotos.";
+"NSSpeechRecognitionUsageDescription" = "Esta aplicación usa reconocimiento de voz para convertir tu voz a texto para comandos de voz y búsqueda";

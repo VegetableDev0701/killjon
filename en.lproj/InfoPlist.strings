@@ -1,0 +1,6 @@
+"NSCameraUsageDescription" = "This app requires access to your camera to allow you to take photos for your listings.";
+"NSLocationWhenInUseUsageDescription" = "This app requires access to your location to allow you to use the map.";
+"NSMicrophoneUsageDescription" = "This app needs microphone access to enable voice search and speech recognition features";
+"NSPhotoLibraryUsageDescription" = "This app requires access to your photo library to allow you to upload or choose images.";
+"NSPhotoLibraryAddUsageDescription" = "This app needs permission to save QR codes and images to your photo library.";
+"NSSpeechRecognitionUsageDescription" = "This app uses speech recognition to convert your voice to text for voice commands and search";
